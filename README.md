@@ -1,5 +1,5 @@
 ## Hi, I'm Mattia
-Currently working blockchain technology for my MSc thesis project
+Currently working on Hyperledger Fabric and model driven development for my MSc thesis
 
 You can find some of my articles on [Medium](https://mattrighetti.medium.com)
 
