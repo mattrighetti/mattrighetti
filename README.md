@@ -11,8 +11,8 @@
          Call Trace:
           <TASK>
           ? find_contact_info+0x1a/0x420
-          ? connect_on_linkedin(https://linkedin.com/in/mattia-righetti)
-          ? review_my_review(https://mattrighetti.com/)
+          ? linkedin(https://linkedin.com/in/mattia-righetti)
+          ? website(https://mattrighetti.com/)
           <TASK_END>
 
          RIP: 0010:panic+0x2a7/0x2a7 RSP: ffff88800c603e18 EFLAGS: 00000246
